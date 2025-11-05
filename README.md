@@ -1,6 +1,6 @@
-# Accessibility Map - Frontend
+# SafeMap - Frontend
 
-A React-based web application for accessibility mapping and safe navigation for people with disabilities.
+A React-based web application for SafeMapping and safe navigation for people with disabilities.
 
 ## Features
 

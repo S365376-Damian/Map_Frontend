@@ -39,7 +39,7 @@ const Navbar = () => {
           }}
           onClick={() => navigate('/')}
         >
-          🗺️ Accessibility Map
+          🗺️ SafeMap
         </Typography>
         
         {isAuthenticated ? (

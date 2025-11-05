@@ -42,7 +42,7 @@ const Home = () => {
               textShadow: '2px 2px 4px rgba(0,0,0,0.3)'
             }}
           >
-            🗺️ Accessibility Map
+            🗺️ SafeMap
           </Typography>
           <Typography 
             variant="h5" 
